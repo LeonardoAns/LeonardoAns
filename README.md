@@ -1,4 +1,4 @@
-# Olá, eu sou Leonardo! 👋
+# Olá, eu sou o Leonardo! 👋
 
 ## Sobre Mim
 Atualmente, sou estudante de Engenharia de Software no Centro Universitário Vale do Iguaçu (Uniguaçu), no quarto período. Estou focado no desenvolvimento BackEnd com Java e Spring.
