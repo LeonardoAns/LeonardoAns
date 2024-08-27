@@ -13,8 +13,7 @@ Atualmente, sou estudante de Engenharia de Software no Centro Universitário Val
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) <!-- Badge para Hibernate -->
 
 ## Contato
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-- [LinkedIn Profile](https://www.linkedin.com/in/leonardoanschau-dev/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoanschau-dev/)
 - Email: [leonardo.anschau@icloud.com](mailto:leonardo.anschau@icloud.com)
 
 Obrigado por visitar meu perfil! 🚀
